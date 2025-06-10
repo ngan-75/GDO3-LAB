@@ -16,13 +16,13 @@ namespace ConsoleApp1
         {
             return a + b;
         }
-        static float tich (int a,int b)
-        {
-            return a / b;
-        }
-        static int thuong(int a,int b)
+        static double tich (int a,int b)
         {
             return a * b;
+        }
+        static double thuong(int a,int b)
+        {
+            return a / b;
         }
         
         static void Main(string[] args)
