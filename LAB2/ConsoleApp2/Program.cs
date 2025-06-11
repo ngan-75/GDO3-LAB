@@ -24,10 +24,10 @@ namespace ConsoleApp1
                 if (b==0)
                 {
                     Console.WriteLine("loi b=0");
-                    throw new Exception("Input loi b=0");
+                    throw new khongchiacho0Exception("khong chia cho 0");
                 }
                 Console.WriteLine("Thuong la:{0}", thuong(a, b));
-                throw new Exception();
+               
 
             }
             catch(FormatException ex)
@@ -40,12 +40,13 @@ namespace ConsoleApp1
                             Console.WriteLine("DivideByZeroException: " + ex.Message);
                             Console.WriteLine("DivideByZeroException: " + ex.StackTrace);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine("Exception test :" + ex.Message);
                 Console.WriteLine("Exception test :" + ex.StackTrace);
             }
-        
+
+
             finally
             {
                 Console.WriteLine("finally:");
@@ -61,6 +62,10 @@ namespace ConsoleApp1
         static void CauseFormatException ()
         {
             string s = "hello World!";
+        }
+        public class khongchiacho0Exception : Exception
+        {
+            public khongchiacho0Exception(string message) : base(message) { }
         }
     }
 }

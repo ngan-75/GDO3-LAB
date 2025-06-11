@@ -24,7 +24,7 @@ namespace ConsoleApp1
                 if (b == 0)
                 {
                     Console.WriteLine("loi b=0");
-                    throw new Exception("Input loi b=0");
+                    throw new vuotquagioihanException();
                 }
                 Console.WriteLine("Thuong la:{0}", thuong(a, b));
                 throw new Exception();
@@ -62,6 +62,11 @@ namespace ConsoleApp1
         {
             string s = "hello World!";
         }
+        public class vuotquagioihanException : Exception
+        {
+            public IvuotquagioihanException(string message): base (message) { }
+        }
+
     }
 }
 
