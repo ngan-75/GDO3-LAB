@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("nhap hai so a,b");
             int[] array = { 1, 2, 3 };
             Console.WriteLine("Array[3]= " + array[2]);
-            for (int i = 0; i <= 3; i++)
+            for (int i=0;i<=3;i++)
             {
                 Console.WriteLine($"Array[{i}] = {array[2]}");
             }
@@ -21,7 +21,7 @@ namespace ConsoleApp1
             {
                 int a = int.Parse(Console.ReadLine());
                 int b = int.Parse(Console.ReadLine());
-                if (b == 0)
+                if (b==0)
                 {
                     Console.WriteLine("loi b=0");
                     throw new Exception("Input loi b=0");
@@ -30,22 +30,22 @@ namespace ConsoleApp1
                 throw new Exception();
 
             }
-            catch (FormatException ex)
+            catch(FormatException ex)
             {
                 Console.WriteLine("FormatException:" + ex.Message);
                 Console.WriteLine("FormatException:" + ex.StackTrace);
             }
-            catch (DivideByZeroException ex)
+             catch(DivideByZeroException ex)
             {
-                Console.WriteLine("DivideByZeroException: " + ex.Message);
-                Console.WriteLine("DivideByZeroException: " + ex.StackTrace);
+                            Console.WriteLine("DivideByZeroException: " + ex.Message);
+                            Console.WriteLine("DivideByZeroException: " + ex.StackTrace);
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
                 Console.WriteLine("Exception test :" + ex.Message);
                 Console.WriteLine("Exception test :" + ex.StackTrace);
             }
-
+        
             finally
             {
                 Console.WriteLine("finally:");
@@ -53,15 +53,14 @@ namespace ConsoleApp1
             Console.WriteLine("Press any key to exit");
 
         }
-        static float thuong(float a, int b)
+        static float thuong (float a,int b)
         {
             return a / b;
 
         }
-        static void CauseFormatException()
+        static void CauseFormatException ()
         {
             string s = "hello World!";
         }
     }
 }
-
