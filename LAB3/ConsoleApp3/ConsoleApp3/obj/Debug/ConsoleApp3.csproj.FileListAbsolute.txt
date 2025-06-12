@@ -1,0 +1,7 @@
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
