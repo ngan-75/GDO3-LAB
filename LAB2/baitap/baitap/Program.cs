@@ -60,7 +60,6 @@ namespace baitap
             {
                 throw new NotNegativeException("bieu thuc be hon khong");
             }
-               
             return Math.Sqrt(bieuthuc);
         }
     }
