@@ -34,6 +34,7 @@ namespace ConsoleApp2
                 Console.WriteLine(item.Key + ": " + item.Value);
                 Console.WriteLine();
             }
+            
             Console.ReadLine();
         }
     }
