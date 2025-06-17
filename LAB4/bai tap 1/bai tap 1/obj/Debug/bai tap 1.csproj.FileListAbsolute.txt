@@ -1,0 +1,7 @@
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\bin\Debug\bai tap 1.exe.config
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\bin\Debug\bai tap 1.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\bin\Debug\bai tap 1.pdb
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\obj\Debug\bai tap 1.csproj.AssemblyReference.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\obj\Debug\bai tap 1.csproj.CoreCompileInputs.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\obj\Debug\bai tap 1.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB4\bai tap 1\bai tap 1\obj\Debug\bai tap 1.pdb
