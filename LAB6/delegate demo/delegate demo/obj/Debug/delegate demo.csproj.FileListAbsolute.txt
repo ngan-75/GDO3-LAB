@@ -1,0 +1,7 @@
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\obj\Debug\delegate demo.csproj.AssemblyReference.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\obj\Debug\delegate demo.csproj.CoreCompileInputs.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\bin\Debug\delegate demo.exe.config
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\bin\Debug\delegate demo.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\bin\Debug\delegate demo.pdb
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\obj\Debug\delegate demo.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB6\delegate demo\delegate demo\obj\Debug\delegate demo.pdb
