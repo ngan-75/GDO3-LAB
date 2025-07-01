@@ -35,6 +35,11 @@ namespace ConsoleApp1
         static async Task Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
+            FirebaseApp.Create(new AppOptions()
+            {
+                Credential = GoogleCredential.FromFile("\"C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\ConsoleApp1\\demo.json\"")
+            });
+
             while (true)
             {
                 Console.WriteLine("\n--- MENU ---");

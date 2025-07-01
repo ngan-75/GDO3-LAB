@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kim ngan\\onedrive\\documents\\github\\gdo3-lab\\semi_final\\firebase project\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kim ngan\\onedrive\\documents\\github\\gdo3-lab\\semi_final\\firebase project\\consoleapp1\\demo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\demo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\consoleapp1\\demo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\demo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1386FB49-BC25-43EB-9196-68B7A5096932}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kim ngan\\onedrive\\documents\\github\\gdo3-lab\\semi_final\\firebase project\\consoleapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -28,7 +28,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "demo.json",
               "DocumentMoniker": "C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\ConsoleApp1\\demo.json",
               "RelativeDocumentMoniker": "ConsoleApp1\\demo.json",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConsoleApp1",
               "DocumentMoniker": "C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
@@ -58,9 +58,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAANAAAAAAAAAAAAAAAOIAAABZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\KIM NGAN\\OneDrive\\Documents\\GitHub\\GDO3-LAB\\SEMI_FINAL\\FireBase Project\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAACsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T02:35:35.939Z",
               "EditorCaption": ""

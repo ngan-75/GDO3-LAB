@@ -1,0 +1,7 @@
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\bin\Debug\baitap 1.exe.config
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\bin\Debug\baitap 1.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\bin\Debug\baitap 1.pdb
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\obj\Debug\baitap 1.csproj.AssemblyReference.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\obj\Debug\baitap 1.csproj.CoreCompileInputs.cache
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\obj\Debug\baitap 1.exe
+C:\Users\KIM NGAN\OneDrive\Documents\GitHub\GDO3-LAB\LAB 10\baitap 1\baitap 1\obj\Debug\baitap 1.pdb
