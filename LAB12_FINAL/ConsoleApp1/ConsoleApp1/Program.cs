@@ -116,12 +116,10 @@ namespace ConsoleApp1
                     CurrentGold = p.CurrentGold,
                     AwardedGlodAmount = p.AwardedGlodAmount
                 };
-
                 await firebase
                     .Child("final_exam_bai2_top3_vip_awards")
                     .Child(index3.ToString())
                     .PutAsync(data);
-
                 index3++;
             }
         }
